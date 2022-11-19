@@ -32,9 +32,14 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=No-Slide&theme=gotham&hide_border=true&area=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=No-Slide&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <p align="center">
+    <img align="right" src="https://github-profile-trophy.vercel.app/?username=No-Slide&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+    </p>
+  </div>
+</div><br><br>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
