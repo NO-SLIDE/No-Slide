@@ -34,9 +34,9 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="300" width="450" alt="coding-time" src="code.gif">
+    <img align="left" height="300" width="420" alt="coding-time" src="code.gif">
     <p align="center">
-    <img align="right" height="300" width="450" src="https://github-profile-trophy.vercel.app/?username=No-Slide&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+    <img align="right" height="300" width="420" src="https://github-profile-trophy.vercel.app/?username=No-Slide&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
     </p>
   </div>
 </div>
