@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Edilson+Aparecido;I'm+40+years+old;I'm+from+Mauá,+SP;I'm+getting+mentoring+in+programming;Be+Welcome!+✌😉💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Edilson+Aparecido;I'm+40+years+old;I'm+from+Mauá,+SP;I'm+looking+for+my+first+opportunity+as+a+front+end;Be+Welcome!+✌😉💻)](https://git.io/typing-svg)
 
 <hr/>
 
@@ -34,12 +34,14 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="300" width="480" alt="coding-time" src="code.gif">
     <p align="center">
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=No-Slide&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+    <img align="right" height="300" width="480" src="https://github-profile-trophy.vercel.app/?username=No-Slide&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
     </p>
   </div>
-</div><br><br>
+</div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
